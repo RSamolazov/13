@@ -18,5 +18,8 @@
   "homepage": "https://github.com/RSamolazov/13#readme",
   "dependencies": {
     "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.0.0"
   }
 }
